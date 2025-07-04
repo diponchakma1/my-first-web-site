@@ -1,0 +1,57 @@
+* {
+    margin: 10;
+    background-color: aqua;
+}
+
+
+h2 {
+    color: Blue;
+    text-decoration: underline;
+}
+
+.header {
+    height: 400px;
+    border: 2px solid red;
+    /* background-image: url('dipon.jpg'); */
+    background-image: url('../Style/Dipon1.jpg');
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+    background-size: 300px;
+    background-repeat: no-repeat;
+    border-radius: 0px 10px 20px 100px;
+    background-position: center;
+
+}
+
+.blog {
+    border: 10px solid tomato;
+    width: 60%;
+    padding: 10px;
+    text-align: justify;
+    display: block;
+    box-shadow: 10px 20px 30px green;
+}
+
+.pro {
+    display: block;
+    border: 2px solid red;
+    height: 100px;
+}
+
+#Am {
+    color: red;
+    font-size: 20px;
+}
+
+.First {
+    color: red;
+    /* display: none*/
+    /* visibility: hidden; */
+
+}
+
+li {
+    display: inline;
+}
